@@ -1,0 +1,15 @@
+.imag-avi{
+    border-radius:  50% 50% ;
+    height: 70px ;
+    width: 70px;  
+    margin: 20px 20px 20px 20px ;  
+}
+.card-avi{
+    width: 250px;
+    height:250px ;
+    margin:  20px 20px 20px 20px ;
+}
+
+.container-card {
+    flex-wrap: nowrap ;
+  }
